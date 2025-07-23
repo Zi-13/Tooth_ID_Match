@@ -1,0 +1,16 @@
+{
+  "calibration": {
+    "pixel_per_mm": 47.5,
+    "reference_pixel_size": 475.0,
+    "confidence": 0.9668737060041408
+  },
+  "area_results": {
+    "total_area_pixels": 214072.5,
+    "total_area_mm2": 94.8797783933518,
+    "contour_count": 1,
+    "largest_area_pixels": 214072.5,
+    "largest_area_mm2": 94.8797783933518,
+    "pixel_per_mm": 47.5
+  },
+  "image_path": "c:\\Users\\Jason\\Desktop\\tooth\\test_tooth.jpg"
+}
